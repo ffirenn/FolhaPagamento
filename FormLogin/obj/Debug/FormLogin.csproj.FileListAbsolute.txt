@@ -1,0 +1,13 @@
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.AssemblyReference.cache
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.FormLogin.resources
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.Properties.Resources.resources
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.GenerateResource.cache
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.CoreCompileInputs.cache
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.FormFolhaPagamento.resources
+C:\Users\mmaga\source\repos\FormLogin\FormLogin\obj\Debug\FormLogin.FormMenu.resources
