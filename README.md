@@ -1,3 +1,1 @@
-# FolhaPagamento
-
-Aplicação em C# + Windows Forms.
+Repositório destinado ao Projeto Integrado Multidisciplinar do 4° semestre do curso de Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP). A proposta desse projeto é criar um sistema onde o funcionário possa consultar seu demonstrativo de pagamento e baixa-lo em PDF.
